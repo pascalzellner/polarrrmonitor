@@ -1,10 +1,10 @@
 # polarrrmonitor
 
-A new Flutter project.
+Follow & records HR, RR, PPI, PPG data with a Polar sensor. Supported sensors : H10, OH1, Verity sense. Data are recorded directly on the phone with simple mail export. Exported files will be used on a research project about HRV or PPG. Ifremmont project to use this APP on a hight altitude RR & PPG research project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
